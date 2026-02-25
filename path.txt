@@ -1,0 +1,1 @@
+& C:\Users\abuzain\AppData\Local\Python\pythoncore-3.14-64\python.exe "d:/My projects/Wizard Rush Game/wizard_rush.py"
